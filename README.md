@@ -1,4 +1,5 @@
-### Hi there 👋                                           ![image](https://github.com/uzmabb182/data-visualization-using-flask-project2/blob/main/images/background_homepage.jpg)                                                                                 
+ ![image](https://www.northeastern.edu/graduate/blog/wp-content/uploads/2020/06/iStock-1221293664-1.jpg) 
+### Hi there 👋                                                                                                                         
 - 🔭 I’m a recent Data Science Bootcamp Graduate from Rutgers University, New Brunswick
 - 🌱 I’m currently working on Big Data project.
 - 👯 I’m a passionate Learner.
