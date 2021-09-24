@@ -5,5 +5,5 @@
 - 👯 I’m a passionate Learner.
 - 📫 How to reach me: uzmabb@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Love nature
+- ⚡ Fun fact: Nature Lover
 
