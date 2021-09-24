@@ -6,4 +6,5 @@
 - 📫 How to reach me: uzmabb@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Nature Lover
+- Final Project Deployment: https://github.com/uzmabb182/Heroku-outcome-prediction/deployments/activity_log?environment=ml-outcome-prediction-heroku
 
