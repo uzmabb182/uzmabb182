@@ -1,4 +1,4 @@
- ![image](https://www.northeastern.edu/graduate/blog/wp-content/uploads/2020/06/iStock-1221293664-1.jpg) 
+ ![image](https://www.bits-pilani.ac.in/Uploads/Goa/goaComputersceience/Microcontent/2016-10-3--9-37-20-688_data-science_copy.jpg) 
 ### Hi there 👋                                                                                                                         
 - 🔭 I’m a recent Data Science Bootcamp Graduate from Rutgers University, New Brunswick
 - 🌱 I’m currently working on Big Data project.
