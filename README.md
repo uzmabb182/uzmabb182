@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![link](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.phdmedia.com%2Fphd-swedens-giselle-almonacid-creators-must-realise-power-data%2F&psig=AOvVaw00EKtIv-_RxCYWcDAyU013&ust=1632532567174000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLC13fu3lvMCFQAAAAAdAAAAABAJ)
+![image](https://user-images.githubusercontent.com/81127634/134604309-076157f4-1793-4a6f-ad75-bbb2e0744526.png)
 
 - 🔭 I’m a recent Data Science Bootcamp Graduate from Rutgers University, New Brunswick
 - 🌱 I’m currently working on Big Data project.
