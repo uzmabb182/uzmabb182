@@ -1,4 +1,4 @@
- ![image](https://drive.google.com/file/d/1A05wOuX0zLv9R4ClXp1B21uy6psBWC7M/view?usp=sharing) 
+ ![image](https://github.com/uzmabb182/SQL-Challenge/blob/main/RUT.PNG) 
 ### Hi there 👋                                                                                                                         
 - 🔭 I’m a recent Data Science Bootcamp Graduate from Rutgers University, New Brunswick, NJ
 - 🌱 I’m currently working on a Big Data project.
