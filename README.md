@@ -1,4 +1,4 @@
- ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbootcamp.rutgers.edu%2Fdata%2F&psig=AOvVaw25f92dv72RfCQkefi_74_r&ust=1632679316881000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKisucramvMCFQAAAAAdAAAAABAD) 
+ ![image](https://drive.google.com/file/d/1A05wOuX0zLv9R4ClXp1B21uy6psBWC7M/view?usp=sharing) 
 ### Hi there 👋                                                                                                                         
 - 🔭 I’m a recent Data Science Bootcamp Graduate from Rutgers University, New Brunswick, NJ
 - 🌱 I’m currently working on a Big Data project.
