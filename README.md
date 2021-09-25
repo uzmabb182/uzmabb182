@@ -1,4 +1,4 @@
- ![image](https://www.bits-pilani.ac.in/Uploads/Goa/goaComputersceience/Microcontent/2016-10-3--9-37-20-688_data-science_copy.jpg) 
+ ![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbootcamp.rutgers.edu%2Fdata%2F&psig=AOvVaw25f92dv72RfCQkefi_74_r&ust=1632679316881000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKisucramvMCFQAAAAAdAAAAABAD) 
 ### Hi there 👋                                                                                                                         
 - 🔭 I’m a recent Data Science Bootcamp Graduate from Rutgers University, New Brunswick, NJ
 - 🌱 I’m currently working on a Big Data project.
