@@ -1,7 +1,7 @@
  ![image](https://github.com/uzmabb182/SQL-Challenge/blob/main/RUT.PNG) 
 ### Hi there 👋                                                                                                                         
 - 🔭 I’m a recent Data Science Bootcamp Graduate from Rutgers University, New Brunswick, NJ
-- 🌱 I’m currently working on a Big Data project.
+- 🌱 I’m currently working on a Big Data Assignment.
 - 👯 I’m a passionate learner.
 - 📫 How to reach me: uzmabb@gmail.com
 - 😄 Pronouns: She/Her
